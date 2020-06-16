@@ -1,0 +1,6 @@
+
+esquid:S00112,"FDefine and throw a dedicated exception instead of using a generic one.(Œï£¬8¥ÃÏ¦.
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8íÄïÎ¦.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Âé’ùÿÿÿÿ8ÑŒ•Ï¦.
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÖÉ—ÿÿÿÿÿ8íÄïÎ¦.
